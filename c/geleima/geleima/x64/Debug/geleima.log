@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\cswj\项目文件\c\geleima\geleima\源.cpp(39,15): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  geleima.vcxproj -> D:\cswj\项目文件\c\geleima\x64\Debug\geleima.exe

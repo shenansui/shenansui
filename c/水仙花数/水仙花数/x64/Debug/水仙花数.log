@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\cswj\项目文件\c\水仙花数\水仙花数\源.cpp(16,1): warning C4326: “main”的返回类型应为“int”而非“void”
+D:\cswj\项目文件\c\水仙花数\水仙花数\源.cpp(61,14): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  水仙花数.vcxproj -> D:\cswj\项目文件\c\水仙花数\x64\Debug\水仙花数.exe

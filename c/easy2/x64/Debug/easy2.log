@@ -1,0 +1,16 @@
+﻿  main.cpp
+D:\cswj\项目文件\c\easy2\加载.h(140,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\cswj\项目文件\c\easy2\加载.h(150,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\cswj\项目文件\c\easy2\加载.h(150,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\cswj\项目文件\c\easy2\init.h(12,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\cswj\项目文件\c\easy2\init.h(13,50): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\cswj\项目文件\c\easy2\init.h(30,19): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\cswj\项目文件\c\easy2\init.h(31,19): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\cswj\项目文件\c\easy2\init.h(70,8): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\cswj\项目文件\c\easy2\init.h(71,8): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\cswj\项目文件\c\easy2\main.cpp(28,24): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\cswj\项目文件\c\easy2\main.cpp(32,24): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\cswj\项目文件\c\easy2\main.cpp(35,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\cswj\项目文件\c\easy2\加载.h(108): warning C4715: “getleftfood”: 不是所有的控件路径都返回值
+D:\cswj\项目文件\c\easy2\加载.h(91): warning C4715: “getlefthead”: 不是所有的控件路径都返回值
+  easy2.vcxproj -> D:\cswj\项目文件\c\easy2\x64\Debug\easy2.exe

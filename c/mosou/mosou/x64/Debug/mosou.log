@@ -1,0 +1,2 @@
+﻿  源.cpp
+D:\cswj\项目文件\c\mosou\mosou\源.cpp(392): error C4700: 使用了未初始化的局部变量“time”

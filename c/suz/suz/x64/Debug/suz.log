@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\cswj\项目文件\c\suz\suz\源.cpp(32,8): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\cswj\项目文件\c\suz\suz\源.cpp(34,7): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  suz.vcxproj -> D:\cswj\项目文件\c\suz\x64\Debug\suz.exe

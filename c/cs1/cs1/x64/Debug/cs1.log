@@ -1,0 +1,8 @@
+﻿  源.cpp
+D:\cswj\项目文件\c\cs1\cs1\源.cpp(117,10): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“float *”
+D:\cswj\项目文件\c\cs1\cs1\源.cpp(117,10): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“float *”
+D:\cswj\项目文件\c\cs1\cs1\源.cpp(117,10): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 3 拥有了类型“float *”
+D:\cswj\项目文件\c\cs1\cs1\源.cpp(124,10): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“float *”
+D:\cswj\项目文件\c\cs1\cs1\源.cpp(124,10): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“float *”
+D:\cswj\项目文件\c\cs1\cs1\源.cpp(124,10): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 3 拥有了类型“float *”
+  cs1.vcxproj -> D:\cswj\项目文件\c\cs1\x64\Debug\cs1.exe

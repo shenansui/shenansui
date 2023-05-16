@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\cswj\项目文件\c\sc3\sc3\源.cpp(14,11): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\cswj\项目文件\c\sc3\sc3\源.cpp(7,14): warning C4101: “c”: 未引用的局部变量
+  sc3.vcxproj -> D:\cswj\项目文件\c\sc3\x64\Debug\sc3.exe

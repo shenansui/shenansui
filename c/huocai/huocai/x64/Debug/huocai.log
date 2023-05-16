@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\cswj\项目文件\c\huocai\huocai\源.cpp(8,1): warning C4326: “main”的返回类型应为“int”而非“void”
+D:\cswj\项目文件\c\huocai\huocai\源.cpp(9,6): warning C4101: “a”: 未引用的局部变量
+D:\cswj\项目文件\c\huocai\huocai\源.cpp(11,6): warning C4101: “sc”: 未引用的局部变量
+  huocai.vcxproj -> D:\cswj\项目文件\c\huocai\x64\Debug\huocai.exe

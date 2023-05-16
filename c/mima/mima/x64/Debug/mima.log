@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\cswj\项目文件\c\mima\mima\源.cpp(8,9): warning C4101: “j”: 未引用的局部变量
+  mima.vcxproj -> D:\cswj\项目文件\c\mima\x64\Debug\mima.exe

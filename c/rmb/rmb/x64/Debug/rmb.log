@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\cswj\项目文件\c\rmb\rmb\源.cpp(22,19): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  rmb.vcxproj -> D:\cswj\项目文件\c\rmb\x64\Debug\rmb.exe
